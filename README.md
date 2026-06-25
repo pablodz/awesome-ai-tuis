@@ -15,6 +15,8 @@ A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assi
 
 > Ordered by GitHub stars (descending). Updated automatically every day.
 
+| # | Name | ⭐ Stars | Language | Description | Key Features |
+|---|------|---------|----------|-------------|--------------|
 | 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 178.2k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
 | 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134.2k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
 | 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105.5k | TypeScript | Google's AI agent with Gemini in your terminal. | 🌟 Gemini powered · 🛠 MCP client/server · 🔓 Open source · 🧩 Multi-tool orchestration · ⚡ Fast startup |

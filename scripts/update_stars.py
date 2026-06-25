@@ -57,9 +57,20 @@ def load_data() -> list:
     return data["tuis"]
 
 
+TABLE_HEADER = "| # | Name | ⭐ Stars | Language | Description | Key Features |"
+
+TABLE_SEPARATOR = "|---|------|---------|----------|-------------|--------------|"
+
+HEADERS_BY_LANG = {
+    "en": TABLE_HEADER,
+    "es": "| # | Nombre | ⭐ Estrellas | Lenguaje | Descripción | Características |",
+}
+
+
 def build_table(tuis: list, lang: str) -> str:
     """Build the markdown table for a given language."""
-    rows = []
+    header = HEADERS_BY_LANG.get(lang, TABLE_HEADER)
+    rows = [header, TABLE_SEPARATOR]
     for i, t in enumerate(tuis, 1):
         stars = fmt_stars(t["stars"])
         name = t["name"]

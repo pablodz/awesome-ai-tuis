@@ -15,6 +15,8 @@ Una lista seleccionada a mano de herramientas **TUI (Terminal User Interface)** 
 
 > Ordenada por estrellas de GitHub (descendente). Actualizada automáticamente cada día.
 
+| # | Nombre | ⭐ Estrellas | Lenguaje | Descripción | Características |
+|---|------|---------|----------|-------------|--------------|
 | 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 178.2k | TypeScript | El agente de código open source. | 🧠 Modos Plan/Implement · 🎨 TUI nativo · 🔌 Multi-proveedor · 📝 Diffs inline · 🗂 Contexto de archivos · ⚡ Nativo de terminal |
 | 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134.2k | Python | Herramienta de código agéntico de Anthropic para la terminal. | 🧠 Bucle agéntico · 📚 Comprensión del codebase · 🌳 Flujos Git · 🛠 Herramientas MCP · 🤝 Sub-agentes · 💬 Lenguaje natural |
 | 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105.5k | TypeScript | Agente de IA de Google con Gemini en tu terminal. | 🌟 Potenciado por Gemini · 🛠 Cliente/servidor MCP · 🔓 Código abierto · 🧩 Orquestación multi-herramienta · ⚡ Inicio rápido |
