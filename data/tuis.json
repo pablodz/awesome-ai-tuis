@@ -376,6 +376,19 @@
         "en": ["🖥 Web dashboard", "📸 Screenshot analysis", "🔌 Multi-provider", "🎛 TUI"],
         "es": ["🖥 Dashboard web", "📸 Análisis de capturas", "🔌 Multi-proveedor", "🎛 TUI"]
       }
+    },
+    {
+      "repo": "CommandCodeAI/command-code",
+      "name": "Command Code",
+      "language": "TypeScript",
+      "description": {
+        "en": "The coding agent that learns your coding taste.",
+        "es": "El agente de código que aprende tu estilo de programación."
+      },
+      "features": {
+        "en": ["🧠 Taste learning", "🔌 Multi-model", "🎛 Slash commands", "💾 Checkpoints & forks", "🤝 Team sharing", "🖥 Terminal TUI"],
+        "es": ["🧠 Aprendizaje de estilo", "🔌 Multi-modelo", "🎛 Comandos slash", "💾 Checkpoints & forks", "🤝 Compartir en equipo", "🖥 TUI de terminal"]
+      }
     }
   ]
 }
