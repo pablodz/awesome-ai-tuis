@@ -1,2 +1,81 @@
-# awesome-ai-tuis
-List of TUIs for ai coding
+# 🤖 awesome-ai-tuis
+
+> Terminal User Interfaces for AI-powered coding — curated, ranked, and ready to explore.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assisted coding straight into your terminal. No browser, no IDE plugin — just you, your keyboard, and an AI agent in a text-based interface.
+
+📖 [Versión en español →](README.es.md)
+
+---
+
+## 📊 The List
+
+> Ordered by GitHub stars (descending). Stars updated June 2025.
+
+| # | Name | ⭐ Stars | Language | Description | Key Features |
+|---|------|---------|----------|-------------|--------------|
+| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 178k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
+| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
+| 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105k | TypeScript | Google's AI agent with Gemini in your terminal. | 🌟 Gemini powered · 🛠 MCP client/server · 🔓 Open source · 🧩 Multi-tool orchestration · ⚡ Fast startup |
+| 4 | [**Codex**](https://github.com/openai/codex) | 93k | Rust | OpenAI's lightweight coding agent for the terminal. | 🪶 Lightweight binary · 🦀 Rust-powered · 🔌 OpenAI models · 🔒 Sandboxed exec · ⚡ Fast & snappy |
+| 5 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 64k | Rust | Coding agent for open models (DeepSeek, Kimi, Qwen). | 🧠 ReAct agent · 🦀 Rust · 🏠 Local-first · 🌍 Open models · 🛠 Rich tool set |
+| 6 | [**Aider**](https://github.com/Aider-AI/aider) | 46k | Python | AI pair programming in your terminal. | 🤝 Pair programming · 🧠 Multi-model (GPT, Claude, Gemini) · 🌳 Git-aware diffs · 🗺 Map-reduce context · 🎙 Voice coding |
+| 7 | [**Copilot CLI**](https://github.com/github/copilot-cli) | 10k | Shell | GitHub Copilot agent in your terminal. | 🐙 GitHub native · 💻 Shell commands · 📝 Code explanations · 🔗 `gh` CLI integration |
+| 8 | [**JCode**](https://github.com/1jehuang/jcode) | 7.7k | Rust | Coding Agent Harness. | 🐝 Swarm mode · 🎛 Multi-provider (Claude, OpenAI) · 🛠 MCP · 🦀 Rust · ⚙ Agent harness |
+| 9 | [**Claude Codex Bridge**](https://github.com/SeemSeam/claude_codex_bridge) | 3k | Python | Visible multi-agent CLI workspace for mixing AI coding agents. | 🤖 Multi-agent · 🖥 Tmux workspace · 🔄 Agent mixing · 👁 Visible execution |
+| 10 | [**Bridle**](https://github.com/neiii/bridle) | 431 | Rust | TUI/CLI config manager for agentic harnesses. | ⚙ Config manager · 🔌 Multi-harness (Claude, OpenCode, Copilot) · 🛠 MCP · 🦀 Rust |
+| 11 | [**HCom**](https://github.com/aannoo/hcom) | 356 | Rust | Let AI agents message, watch, and spawn each other across terminals. | 💬 Agent communication · 🔄 Cross-terminal · 🧠 Multi-agent orchestration · 🦀 Rust |
+| 12 | [**Omni**](https://github.com/fajarhide/omni) | 282 | Rust | Noise-canceling context & long-term memory for AI agents. | 🧹 Context distillation · 💾 Long-term memory · 💰 Token savings · 🦀 Rust |
+| 13 | [**Lanes**](https://github.com/lanes-sh/app) | 242 | — | Mission control for parallel AI coding agents. | 🎛 Parallel agents · 🖥 Orchestration · 🔌 Multi-provider · 📊 Dashboard |
+| 14 | [**LlamaTerm**](https://github.com/adammpkins/llama-terminal-completion) | 195 | Go | AI terminal assistant for any OpenAI-compatible API. | 🦙 Ollama/LM Studio support · 💬 Interactive chat TUI · ⚡ Streaming · 🔌 OpenAI-compatible |
+| 15 | [**Sidekick**](https://github.com/cesarandreslopez/sidekick-agent-hub) | 69 | TypeScript | Multi-provider assistant & session monitor with TUI dashboard. | 📊 Token/cost tracking · 🔄 Multi-account · 👁 Session monitoring · 🖥 VS Code + terminal |
+| 16 | [**JrDev**](https://github.com/presstab/jrdev) | 67 | Python | Free open-source AI developer assistant for the terminal. | 🧠 LLM code gen · 📂 Project context · 🌳 Git ops · 🖥 CLI/TUI hybrid |
+| 17 | [**CodeAuto**](https://github.com/Yulin-Bi/CodeAuto) | 45 | Java | AI programming assistant inspired by Claude Code & Minicode. | ☕ Java · 🛠 MCP · 🧩 Skills system · 🖥 Terminal TUI |
+| 18 | [**Orchestra**](https://github.com/humanunsupervised/orchestra) | 28 | Rust | Parallel AI coding assistants in the terminal. | 🦀 Rust · 🔀 Parallel agents · 🪟 Tmux integration · ⚡ Fast TUI |
+| 19 | [**Raijin**](https://github.com/francescoalemanno/raijin-mono) | 26 | Go | AI terminal assistant with multi-provider LLM support. | ⚡ Go · 🔌 Multi-provider · 🛠 Built-in tools · 📚 Skills for workflows |
+| 20 | [**MatrixClaw**](https://github.com/Suren878/matrixclaw) | 26 | Go | Always-on local AI assistant & coding agent. | 🏠 Local-first · 📱 Telegram TUI · 🛠 MCP · 📅 Scheduled tasks · 🧠 Sub-agents |
+| 21 | [**Spettro**](https://github.com/cesp99/spettro) | 23 | Go | Multi-agent coding assistant with planning & testing. | 🤖 Multi-agent · 📋 Plan/Code/Test · 🎛 Model selection · 🖥 Bubble Tea TUI |
+| 22 | [**Crustly**](https://github.com/jyjeanne/crustly) | 18 | Rust | Blazingly fast, privacy-first TUI coding assistant. | 🦀 Rust · 🔒 Local LLMs · 🪶 Memory-efficient · 🏠 Privacy-first |
+| 23 | [**Rust TUI Coder**](https://github.com/Ammar-Alnagar/Rust-TUI-Coder) | 12 | Rust | Powerful terminal coding assistant with interactive TUI. | 🦀 Rust · 💬 Chat · ⚡ Code exec · 📁 File manipulation · 🎨 Beautiful UI |
+| 24 | [**Bitcode**](https://github.com/sazid/bitcode) | 7 | Go | Agentic loop AI coding assistant with terminal TUI. | 🔁 Agentic loop · 🛠 Tool calls · 🛡 Guardrails · ⏰ Reminders |
+| 25 | [**OpenZeroCode**](https://github.com/arborlogic/openzerocode) | 6 | TypeScript | Local-first TUI coding assistant adapted from OpenCode. | 🏠 Local-first · ☁ Zero cloud deps · 🔌 Multi-provider · 🧠 Working memory |
+| 26 | [**Agentop**](https://github.com/dadwadw233/agentop) | 5 | Python | Terminal UI for monitoring AI coding agents — htop for AI agents. | 📊 Agent monitoring · 🔍 Claude Code/Codex/Antigravity · 📈 Live stats |
+| 27 | [**PolyCode**](https://github.com/izzoa/polycode) | 3 | Go | Multi-model consensus coding assistant for your terminal. | 🤝 Model consensus · 🔌 Multi-model · 🖥 Terminal TUI |
+| 28 | [**Talon**](https://github.com/ChxisB/Talon) | 2 | Go | AI coding assistant with multi-provider support & web dashboard. | 🖥 Web dashboard · 📸 Screenshot analysis · 🔌 Multi-provider · 🎛 TUI |
+
+---
+
+## 📋 Template — Add a new TUI
+
+Want to contribute? Copy the row below and [open a PR](CONTRIBUTING.md):
+
+```markdown
+| # | [**ToolName**](https://github.com/owner/repo) | ⭐ Stars | Language | Short description. | 🏷 Feature1 · 🏷 Feature2 · 🏷 Feature3 |
+```
+
+**Guidelines:**
+- Insert in the correct position (sorted by ⭐ stars descending).
+- Keep the description under one line (~100 chars).
+- List up to 6 key features using `·` as separator.
+- Use emoji for each feature for visual scannability.
+- Stars should be fetched from the GitHub API.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full details.
+
+---
+
+## 🌍 Multi-language
+
+| Language | File |
+|----------|------|
+| English  | [`README.md`](README.md) |
+| Español  | [`README.es.md`](README.es.md) |
+
+---
+
+## 🙌 Credits
+
+Curated with ❤️ by the open-source community. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list tradition.
