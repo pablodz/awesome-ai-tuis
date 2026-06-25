@@ -13,19 +13,17 @@ Una lista seleccionada a mano de herramientas **TUI (Terminal User Interface)** 
 
 ## 📊 La Lista
 
-> Ordenada por estrellas de GitHub (descendente). Estrellas actualizadas a junio 2025.
+> Ordenada por estrellas de GitHub (descendente). Actualizada automáticamente cada día.
 
-| # | Nombre | ⭐ Estrellas | Lenguaje | Descripción | Características |
-|---|--------|-------------|----------|-------------|-----------------|
-| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 178k | TypeScript | El agente de código open source. | 🧠 Modos Plan/Implement · 🎨 TUI nativo · 🔌 Multi-proveedor · 📝 Diffs inline · 🗂 Contexto de archivos · ⚡ Nativo de terminal |
-| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134k | Python | Herramienta de código agéntico de Anthropic para la terminal. | 🧠 Bucle agéntico · 📚 Comprensión del codebase · 🌳 Flujos Git · 🛠 Herramientas MCP · 🤝 Sub-agentes · 💬 Lenguaje natural |
-| 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105k | TypeScript | Agente de IA de Google con Gemini en tu terminal. | 🌟 Potenciado por Gemini · 🛠 Cliente/servidor MCP · 🔓 Código abierto · 🧩 Orquestación multi-herramienta · ⚡ Inicio rápido |
-| 4 | [**Codex**](https://github.com/openai/codex) | 93k | Rust | Agente de código ligero de OpenAI para la terminal. | 🪶 Binario ligero · 🦀 Rust · 🔌 Modelos OpenAI · 🔒 Ejecución aislada · ⚡ Rápido y ágil |
-| 5 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 64k | Rust | Agente de código para modelos abiertos (DeepSeek, Kimi, Qwen). | 🧠 Agente ReAct · 🦀 Rust · 🏠 Local-first · 🌍 Modelos abiertos · 🛠 Herramientas ricas |
-| 6 | [**Aider**](https://github.com/Aider-AI/aider) | 46k | Python | Programación en pareja con IA en tu terminal. | 🤝 Pair programming · 🧠 Multi-modelo (GPT, Claude, Gemini) · 🌳 Diffs Git-aware · 🗺 Contexto map-reduce · 🎙 Código por voz |
-| 7 | [**Copilot CLI**](https://github.com/github/copilot-cli) | 10k | Shell | Agente de GitHub Copilot en tu terminal. | 🐙 Nativo de GitHub · 💻 Comandos shell · 📝 Explicaciones de código · 🔗 Integración `gh` CLI |
+| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 178.2k | TypeScript | El agente de código open source. | 🧠 Modos Plan/Implement · 🎨 TUI nativo · 🔌 Multi-proveedor · 📝 Diffs inline · 🗂 Contexto de archivos · ⚡ Nativo de terminal |
+| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134.2k | Python | Herramienta de código agéntico de Anthropic para la terminal. | 🧠 Bucle agéntico · 📚 Comprensión del codebase · 🌳 Flujos Git · 🛠 Herramientas MCP · 🤝 Sub-agentes · 💬 Lenguaje natural |
+| 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105.5k | TypeScript | Agente de IA de Google con Gemini en tu terminal. | 🌟 Potenciado por Gemini · 🛠 Cliente/servidor MCP · 🔓 Código abierto · 🧩 Orquestación multi-herramienta · ⚡ Inicio rápido |
+| 4 | [**Codex**](https://github.com/openai/codex) | 93.4k | Rust | Agente de código ligero de OpenAI para la terminal. | 🪶 Binario ligero · 🦀 Rust · 🔌 Modelos OpenAI · 🔒 Ejecución aislada · ⚡ Rápido y ágil |
+| 5 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 64.1k | Rust | Agente de código para modelos abiertos (DeepSeek, Kimi, Qwen). | 🧠 Agente ReAct · 🦀 Rust · 🏠 Local-first · 🌍 Modelos abiertos · 🛠 Herramientas ricas |
+| 6 | [**Aider**](https://github.com/Aider-AI/aider) | 46.7k | Python | Programación en pareja con IA en tu terminal. | 🤝 Pair programming · 🧠 Multi-modelo (GPT, Claude, Gemini) · 🌳 Diffs Git-aware · 🗺 Contexto map-reduce · 🎙 Código por voz |
+| 7 | [**Copilot CLI**](https://github.com/github/copilot-cli) | 10.9k | Shell | Agente de GitHub Copilot en tu terminal. | 🐙 Nativo de GitHub · 💻 Comandos shell · 📝 Explicaciones de código · 🔗 Integración `gh` CLI |
 | 8 | [**JCode**](https://github.com/1jehuang/jcode) | 7.7k | Rust | Arnés de agente de código. | 🐝 Modo Swarm · 🎛 Multi-proveedor (Claude, OpenAI) · 🛠 MCP · 🦀 Rust · ⚙ Arnés de agente |
-| 9 | [**Claude Codex Bridge**](https://github.com/SeemSeam/claude_codex_bridge) | 3k | Python | Espacio multi-agente visible para mezclar agentes de IA. | 🤖 Multi-agente · 🖥 Espacio Tmux · 🔄 Mezcla de agentes · 👁 Ejecución visible |
+| 9 | [**Claude Codex Bridge**](https://github.com/SeemSeam/claude_codex_bridge) | 3.1k | Python | Espacio multi-agente visible para mezclar agentes de IA. | 🤖 Multi-agente · 🖥 Espacio Tmux · 🔄 Mezcla de agentes · 👁 Ejecución visible |
 | 10 | [**Bridle**](https://github.com/neiii/bridle) | 431 | Rust | Gestor de configuración TUI/CLI para arneses agénticos. | ⚙ Gestor de configuración · 🔌 Multi-arnés · 🛠 MCP · 🦀 Rust |
 | 11 | [**HCom**](https://github.com/aannoo/hcom) | 356 | Rust | Permite que agentes IA se comuniquen entre terminales. | 💬 Comunicación entre agentes · 🔄 Multi-terminal · 🧠 Orquestación · 🦀 Rust |
 | 12 | [**Omni**](https://github.com/fajarhide/omni) | 282 | Rust | Contexto con cancelación de ruido y memoria a largo plazo para agentes. | 🧹 Filtrado de contexto · 💾 Memoria a largo plazo · 💰 Ahorro de tokens · 🦀 Rust |
@@ -50,20 +48,40 @@ Una lista seleccionada a mano de herramientas **TUI (Terminal User Interface)** 
 
 ## 📋 Plantilla — Añadir una nueva TUI
 
-¿Quieres contribuir? Copia la fila de abajo y [abre un PR](CONTRIBUTING.md):
+¿Quieres contribuir? Añade tu entrada en [`data/tuis.json`](data/tuis.json) y abre un PR:
 
-```markdown
-| # | [**NombreHerramienta**](https://github.com/owner/repo) | ⭐ Estrellas | Lenguaje | Descripción corta. | 🏷 Característica1 · 🏷 Característica2 · 🏷 Característica3 |
+```json
+{
+  "repo": "owner/repo",
+  "name": "NombreHerramienta",
+  "language": "Rust",
+  "description": {
+    "en": "Short description.",
+    "es": "Descripción corta."
+  },
+  "features": {
+    "en": ["🏷 Feature 1", "🏷 Feature 2"],
+    "es": ["🏷 Característica 1", "🏷 Característica 2"]
+  }
+}
 ```
 
-**Directrices:**
-- Inserta en la posición correcta (ordenado por ⭐ estrellas descendente).
-- Descripción en una línea (~100 caracteres máx).
-- Hasta 6 características clave usando `·` como separador.
-- Usa emoji para cada característica para facilitar el escaneo visual.
-- Las estrellas deben obtenerse de la API de GitHub.
+**La tabla se genera automáticamente** — no necesitas editar README.md directamente. Las estrellas se actualizan a diario vía GitHub Actions.
 
 Ver [CONTRIBUTING.md](CONTRIBUTING.md) para todos los detalles.
+
+---
+
+## 🤖 Automatización
+
+Esta lista se auto-actualiza cada día mediante un [GitHub Action](.github/workflows/update-stars.yml):
+
+1. Lee [`data/tuis.json`](data/tuis.json) (fuente de verdad)
+2. Consulta las ⭐ actuales desde la API de GitHub
+3. Reordena la tabla por estrellas descendente
+4. Hace commit automáticamente
+
+Para añadir una TUI, solo edita `data/tuis.json` — el script hace el resto.
 
 ---
 
