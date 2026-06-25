@@ -92,6 +92,19 @@
       }
     },
     {
+      "repo": "charmbracelet/crush",
+      "name": "Crush",
+      "language": "Go",
+      "description": {
+        "en": "Glamourous agentic coding for all. The Charm terminal AI assistant.",
+        "es": "Programación agéntica con estilo para todos. El asistente IA de terminal de Charm."
+      },
+      "features": {
+        "en": ["💘 Glamourous TUI", "🧠 Agentic loop", "🔌 Multi-provider", "🛠 MCP & LSP", "🪝 Hooks system", "⚡ Bubble Tea (Go)"],
+        "es": ["💘 TUI con estilo", "🧠 Bucle agéntico", "🔌 Multi-proveedor", "🛠 MCP y LSP", "🪝 Sistema de hooks", "⚡ Bubble Tea (Go)"]
+      }
+    },
+    {
       "repo": "1jehuang/jcode",
       "name": "JCode",
       "language": "Rust",
