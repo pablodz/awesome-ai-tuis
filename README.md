@@ -7,8 +7,6 @@
 
 A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assisted coding straight into your terminal. No browser, no IDE plugin — just you, your keyboard, and an AI agent in a text-based interface.
 
-📖 [Versión en español →](README.es.md)
-
 ---
 
 ## 📊 The List
@@ -60,12 +58,10 @@ Want to contribute? Add your entry to [`data/tuis.json`](data/tuis.json) and ope
   "name": "ToolName",
   "language": "Rust",
   "description": {
-    "en": "Short description.",
-    "es": "Descripción corta."
+    "en": "Short description."
   },
   "features": {
-    "en": ["🏷 Feature 1", "🏷 Feature 2"],
-    "es": ["🏷 Característica 1", "🏷 Característica 2"]
+    "en": ["🏷 Feature 1", "🏷 Feature 2"]
   }
 }
 ```
@@ -86,15 +82,6 @@ This list self-updates every day via a [GitHub Action](.github/workflows/update-
 4. Commits changes automatically
 
 To add a TUI, just edit `data/tuis.json` — the script handles the rest.
-
----
-
-## 🌍 Multi-language
-
-| Language | File |
-|----------|------|
-| English  | [`README.md`](README.md) |
-| Español  | [`README.es.md`](README.es.md) |
 
 ---
 

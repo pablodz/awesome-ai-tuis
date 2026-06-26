@@ -1,394 +1,497 @@
 {
   "tuis": [
     {
-      "repo": "anomalyco/opencode",
+      "description": {
+        "en": "The open source coding agent."
+      },
+      "features": {
+        "en": [
+          "🧠 Plan/Implement modes",
+          "🎨 TUI-first",
+          "🔌 Multi-provider",
+          "📝 Inline diff editing",
+          "🗂 File-aware context",
+          "⚡ Terminal-native"
+        ]
+      },
+      "language": "TypeScript",
       "name": "OpenCode",
-      "language": "TypeScript",
-      "description": {
-        "en": "The open source coding agent.",
-        "es": "El agente de código open source."
-      },
-      "features": {
-        "en": ["🧠 Plan/Implement modes", "🎨 TUI-first", "🔌 Multi-provider", "📝 Inline diff editing", "🗂 File-aware context", "⚡ Terminal-native"],
-        "es": ["🧠 Modos Plan/Implement", "🎨 TUI nativo", "🔌 Multi-proveedor", "📝 Diffs inline", "🗂 Contexto de archivos", "⚡ Nativo de terminal"]
-      }
+      "repo": "anomalyco/opencode"
     },
     {
-      "repo": "anthropics/claude-code",
+      "description": {
+        "en": "Anthropic's agentic coding tool that lives in your terminal."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic loop",
+          "📚 Codebase understanding",
+          "🌳 Git workflows",
+          "🛠 MCP tools",
+          "🤝 Sub-agents",
+          "💬 Natural language"
+        ]
+      },
+      "language": "Python",
       "name": "Claude Code",
-      "language": "Python",
-      "description": {
-        "en": "Anthropic's agentic coding tool that lives in your terminal.",
-        "es": "Herramienta de código agéntico de Anthropic para la terminal."
-      },
-      "features": {
-        "en": ["🧠 Agentic loop", "📚 Codebase understanding", "🌳 Git workflows", "🛠 MCP tools", "🤝 Sub-agents", "💬 Natural language"],
-        "es": ["🧠 Bucle agéntico", "📚 Comprensión del codebase", "🌳 Flujos Git", "🛠 Herramientas MCP", "🤝 Sub-agentes", "💬 Lenguaje natural"]
-      }
+      "repo": "anthropics/claude-code"
     },
     {
-      "repo": "google-gemini/gemini-cli",
+      "description": {
+        "en": "Google's AI agent with Gemini in your terminal."
+      },
+      "features": {
+        "en": [
+          "🌟 Gemini powered",
+          "🛠 MCP client/server",
+          "🔓 Open source",
+          "🧩 Multi-tool orchestration",
+          "⚡ Fast startup"
+        ]
+      },
+      "language": "TypeScript",
       "name": "Gemini CLI",
-      "language": "TypeScript",
-      "description": {
-        "en": "Google's AI agent with Gemini in your terminal.",
-        "es": "Agente de IA de Google con Gemini en tu terminal."
-      },
-      "features": {
-        "en": ["🌟 Gemini powered", "🛠 MCP client/server", "🔓 Open source", "🧩 Multi-tool orchestration", "⚡ Fast startup"],
-        "es": ["🌟 Potenciado por Gemini", "🛠 Cliente/servidor MCP", "🔓 Código abierto", "🧩 Orquestación multi-herramienta", "⚡ Inicio rápido"]
-      }
+      "repo": "google-gemini/gemini-cli"
     },
     {
-      "repo": "openai/codex",
+      "description": {
+        "en": "OpenAI's lightweight coding agent for the terminal."
+      },
+      "features": {
+        "en": [
+          "🪶 Lightweight binary",
+          "🦀 Rust-powered",
+          "🔌 OpenAI models",
+          "🔒 Sandboxed exec",
+          "⚡ Fast \u0026 snappy"
+        ]
+      },
+      "language": "Rust",
       "name": "Codex",
-      "language": "Rust",
-      "description": {
-        "en": "OpenAI's lightweight coding agent for the terminal.",
-        "es": "Agente de código ligero de OpenAI para la terminal."
-      },
-      "features": {
-        "en": ["🪶 Lightweight binary", "🦀 Rust-powered", "🔌 OpenAI models", "🔒 Sandboxed exec", "⚡ Fast & snappy"],
-        "es": ["🪶 Binario ligero", "🦀 Rust", "🔌 Modelos OpenAI", "🔒 Ejecución aislada", "⚡ Rápido y ágil"]
-      }
+      "repo": "openai/codex"
     },
     {
-      "repo": "openinterpreter/openinterpreter",
+      "description": {
+        "en": "Coding agent for open models (DeepSeek, Kimi, Qwen)."
+      },
+      "features": {
+        "en": [
+          "🧠 ReAct agent",
+          "🦀 Rust",
+          "🏠 Local-first",
+          "🌍 Open models",
+          "🛠 Rich tool set"
+        ]
+      },
+      "language": "Rust",
       "name": "Open Interpreter",
-      "language": "Rust",
-      "description": {
-        "en": "Coding agent for open models (DeepSeek, Kimi, Qwen).",
-        "es": "Agente de código para modelos abiertos (DeepSeek, Kimi, Qwen)."
-      },
-      "features": {
-        "en": ["🧠 ReAct agent", "🦀 Rust", "🏠 Local-first", "🌍 Open models", "🛠 Rich tool set"],
-        "es": ["🧠 Agente ReAct", "🦀 Rust", "🏠 Local-first", "🌍 Modelos abiertos", "🛠 Herramientas ricas"]
-      }
+      "repo": "openinterpreter/openinterpreter"
     },
     {
-      "repo": "Aider-AI/aider",
+      "description": {
+        "en": "AI pair programming in your terminal."
+      },
+      "features": {
+        "en": [
+          "🤝 Pair programming",
+          "🧠 Multi-model (GPT, Claude, Gemini)",
+          "🌳 Git-aware diffs",
+          "🗺 Map-reduce context",
+          "🎙 Voice coding"
+        ]
+      },
+      "language": "Python",
       "name": "Aider",
-      "language": "Python",
-      "description": {
-        "en": "AI pair programming in your terminal.",
-        "es": "Programación en pareja con IA en tu terminal."
-      },
-      "features": {
-        "en": ["🤝 Pair programming", "🧠 Multi-model (GPT, Claude, Gemini)", "🌳 Git-aware diffs", "🗺 Map-reduce context", "🎙 Voice coding"],
-        "es": ["🤝 Pair programming", "🧠 Multi-modelo (GPT, Claude, Gemini)", "🌳 Diffs Git-aware", "🗺 Contexto map-reduce", "🎙 Código por voz"]
-      }
+      "repo": "Aider-AI/aider"
     },
     {
-      "repo": "github/copilot-cli",
-      "name": "Copilot CLI",
+      "description": {
+        "en": "GitHub Copilot agent in your terminal."
+      },
+      "features": {
+        "en": [
+          "🐙 GitHub native",
+          "💻 Shell commands",
+          "📝 Code explanations",
+          "🔗 `gh` CLI integration"
+        ]
+      },
       "language": "Shell",
-      "description": {
-        "en": "GitHub Copilot agent in your terminal.",
-        "es": "Agente de GitHub Copilot en tu terminal."
-      },
-      "features": {
-        "en": ["🐙 GitHub native", "💻 Shell commands", "📝 Code explanations", "🔗 `gh` CLI integration"],
-        "es": ["🐙 Nativo de GitHub", "💻 Comandos shell", "📝 Explicaciones de código", "🔗 Integración `gh` CLI"]
-      }
+      "name": "Copilot CLI",
+      "repo": "github/copilot-cli"
     },
     {
-      "repo": "charmbracelet/crush",
+      "description": {
+        "en": "Glamourous agentic coding for all. The Charm terminal AI assistant."
+      },
+      "features": {
+        "en": [
+          "💘 Glamourous TUI",
+          "🧠 Agentic loop",
+          "🔌 Multi-provider",
+          "🛠 MCP \u0026 LSP",
+          "🪝 Hooks system",
+          "⚡ Bubble Tea (Go)"
+        ]
+      },
+      "language": "Go",
       "name": "Crush",
-      "language": "Go",
-      "description": {
-        "en": "Glamourous agentic coding for all. The Charm terminal AI assistant.",
-        "es": "Programación agéntica con estilo para todos. El asistente IA de terminal de Charm."
-      },
-      "features": {
-        "en": ["💘 Glamourous TUI", "🧠 Agentic loop", "🔌 Multi-provider", "🛠 MCP & LSP", "🪝 Hooks system", "⚡ Bubble Tea (Go)"],
-        "es": ["💘 TUI con estilo", "🧠 Bucle agéntico", "🔌 Multi-proveedor", "🛠 MCP y LSP", "🪝 Sistema de hooks", "⚡ Bubble Tea (Go)"]
-      }
+      "repo": "charmbracelet/crush"
     },
     {
-      "repo": "1jehuang/jcode",
+      "description": {
+        "en": "Coding Agent Harness."
+      },
+      "features": {
+        "en": [
+          "🐝 Swarm mode",
+          "🎛 Multi-provider (Claude, OpenAI)",
+          "🛠 MCP",
+          "🦀 Rust",
+          "⚙ Agent harness"
+        ]
+      },
+      "language": "Rust",
       "name": "JCode",
-      "language": "Rust",
-      "description": {
-        "en": "Coding Agent Harness.",
-        "es": "Arnés de agente de código."
-      },
-      "features": {
-        "en": ["🐝 Swarm mode", "🎛 Multi-provider (Claude, OpenAI)", "🛠 MCP", "🦀 Rust", "⚙ Agent harness"],
-        "es": ["🐝 Modo Swarm", "🎛 Multi-proveedor (Claude, OpenAI)", "🛠 MCP", "🦀 Rust", "⚙ Arnés de agente"]
-      }
+      "repo": "1jehuang/jcode"
     },
     {
-      "repo": "SeemSeam/claude_codex_bridge",
+      "description": {
+        "en": "Visible multi-agent CLI workspace for mixing AI coding agents."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "🖥 Tmux workspace",
+          "🔄 Agent mixing",
+          "👁 Visible execution"
+        ]
+      },
+      "language": "Python",
       "name": "Claude Codex Bridge",
-      "language": "Python",
-      "description": {
-        "en": "Visible multi-agent CLI workspace for mixing AI coding agents.",
-        "es": "Espacio multi-agente visible para mezclar agentes de IA."
-      },
-      "features": {
-        "en": ["🤖 Multi-agent", "🖥 Tmux workspace", "🔄 Agent mixing", "👁 Visible execution"],
-        "es": ["🤖 Multi-agente", "🖥 Espacio Tmux", "🔄 Mezcla de agentes", "👁 Ejecución visible"]
-      }
+      "repo": "SeemSeam/claude_codex_bridge"
     },
     {
-      "repo": "neiii/bridle",
+      "description": {
+        "en": "TUI/CLI config manager for agentic harnesses."
+      },
+      "features": {
+        "en": [
+          "⚙ Config manager",
+          "🔌 Multi-harness (Claude, OpenCode, Copilot)",
+          "🛠 MCP",
+          "🦀 Rust"
+        ]
+      },
+      "language": "Rust",
       "name": "Bridle",
-      "language": "Rust",
-      "description": {
-        "en": "TUI/CLI config manager for agentic harnesses.",
-        "es": "Gestor de configuración TUI/CLI para arneses agénticos."
-      },
-      "features": {
-        "en": ["⚙ Config manager", "🔌 Multi-harness (Claude, OpenCode, Copilot)", "🛠 MCP", "🦀 Rust"],
-        "es": ["⚙ Gestor de configuración", "🔌 Multi-arnés", "🛠 MCP", "🦀 Rust"]
-      }
+      "repo": "neiii/bridle"
     },
     {
-      "repo": "aannoo/hcom",
+      "description": {
+        "en": "Let AI agents message, watch, and spawn each other across terminals."
+      },
+      "features": {
+        "en": [
+          "💬 Agent communication",
+          "🔄 Cross-terminal",
+          "🧠 Multi-agent orchestration",
+          "🦀 Rust"
+        ]
+      },
+      "language": "Rust",
       "name": "HCom",
-      "language": "Rust",
-      "description": {
-        "en": "Let AI agents message, watch, and spawn each other across terminals.",
-        "es": "Permite que agentes IA se comuniquen entre terminales."
-      },
-      "features": {
-        "en": ["💬 Agent communication", "🔄 Cross-terminal", "🧠 Multi-agent orchestration", "🦀 Rust"],
-        "es": ["💬 Comunicación entre agentes", "🔄 Multi-terminal", "🧠 Orquestación", "🦀 Rust"]
-      }
+      "repo": "aannoo/hcom"
     },
     {
-      "repo": "fajarhide/omni",
+      "description": {
+        "en": "Noise-canceling context \u0026 long-term memory for AI agents."
+      },
+      "features": {
+        "en": [
+          "🧹 Context distillation",
+          "💾 Long-term memory",
+          "💰 Token savings",
+          "🦀 Rust"
+        ]
+      },
+      "language": "Rust",
       "name": "Omni",
-      "language": "Rust",
-      "description": {
-        "en": "Noise-canceling context & long-term memory for AI agents.",
-        "es": "Contexto con cancelación de ruido y memoria a largo plazo para agentes."
-      },
-      "features": {
-        "en": ["🧹 Context distillation", "💾 Long-term memory", "💰 Token savings", "🦀 Rust"],
-        "es": ["🧹 Filtrado de contexto", "💾 Memoria a largo plazo", "💰 Ahorro de tokens", "🦀 Rust"]
-      }
+      "repo": "fajarhide/omni"
     },
     {
-      "repo": "lanes-sh/app",
-      "name": "Lanes",
+      "description": {
+        "en": "Mission control for parallel AI coding agents."
+      },
+      "features": {
+        "en": [
+          "🎛 Parallel agents",
+          "🖥 Orchestration",
+          "🔌 Multi-provider",
+          "📊 Dashboard"
+        ]
+      },
       "language": "—",
-      "description": {
-        "en": "Mission control for parallel AI coding agents.",
-        "es": "Centro de control para agentes de código en paralelo."
-      },
-      "features": {
-        "en": ["🎛 Parallel agents", "🖥 Orchestration", "🔌 Multi-provider", "📊 Dashboard"],
-        "es": ["🎛 Agentes paralelos", "🖥 Orquestación", "🔌 Multi-proveedor", "📊 Dashboard"]
-      }
+      "name": "Lanes",
+      "repo": "lanes-sh/app"
     },
     {
-      "repo": "adammpkins/llama-terminal-completion",
+      "description": {
+        "en": "AI terminal assistant for any OpenAI-compatible API."
+      },
+      "features": {
+        "en": [
+          "🦙 Ollama/LM Studio support",
+          "💬 Interactive chat TUI",
+          "⚡ Streaming",
+          "🔌 OpenAI-compatible"
+        ]
+      },
+      "language": "Go",
       "name": "LlamaTerm",
-      "language": "Go",
-      "description": {
-        "en": "AI terminal assistant for any OpenAI-compatible API.",
-        "es": "Asistente de terminal IA compatible con cualquier API OpenAI."
-      },
-      "features": {
-        "en": ["🦙 Ollama/LM Studio support", "💬 Interactive chat TUI", "⚡ Streaming", "🔌 OpenAI-compatible"],
-        "es": ["🦙 Soporte Ollama/LM Studio", "💬 Chat TUI interactivo", "⚡ Streaming", "🔌 Compatible OpenAI"]
-      }
+      "repo": "adammpkins/llama-terminal-completion"
     },
     {
-      "repo": "cesarandreslopez/sidekick-agent-hub",
+      "description": {
+        "en": "Multi-provider assistant \u0026 session monitor with TUI dashboard."
+      },
+      "features": {
+        "en": [
+          "📊 Token/cost tracking",
+          "🔄 Multi-account",
+          "👁 Session monitoring",
+          "🖥 VS Code + terminal"
+        ]
+      },
+      "language": "TypeScript",
       "name": "Sidekick",
-      "language": "TypeScript",
-      "description": {
-        "en": "Multi-provider assistant & session monitor with TUI dashboard.",
-        "es": "Asistente multi-proveedor y monitor de sesiones con dashboard TUI."
-      },
-      "features": {
-        "en": ["📊 Token/cost tracking", "🔄 Multi-account", "👁 Session monitoring", "🖥 VS Code + terminal"],
-        "es": ["📊 Tracking de tokens/coste", "🔄 Multi-cuenta", "👁 Monitor de sesiones", "🖥 VS Code + terminal"]
-      }
+      "repo": "cesarandreslopez/sidekick-agent-hub"
     },
     {
-      "repo": "presstab/jrdev",
+      "description": {
+        "en": "Free open-source AI developer assistant for the terminal."
+      },
+      "features": {
+        "en": [
+          "🧠 LLM code gen",
+          "📂 Project context",
+          "🌳 Git ops",
+          "🖥 CLI/TUI hybrid"
+        ]
+      },
+      "language": "Python",
       "name": "JrDev",
-      "language": "Python",
-      "description": {
-        "en": "Free open-source AI developer assistant for the terminal.",
-        "es": "Asistente de desarrollo IA gratuito y open source para la terminal."
-      },
-      "features": {
-        "en": ["🧠 LLM code gen", "📂 Project context", "🌳 Git ops", "🖥 CLI/TUI hybrid"],
-        "es": ["🧠 Generación de código", "📂 Contexto de proyecto", "🌳 Operaciones Git", "🖥 Híbrido CLI/TUI"]
-      }
+      "repo": "presstab/jrdev"
     },
     {
-      "repo": "Yulin-Bi/CodeAuto",
-      "name": "CodeAuto",
+      "description": {
+        "en": "AI programming assistant inspired by Claude Code \u0026 Minicode."
+      },
+      "features": {
+        "en": [
+          "☕ Java",
+          "🛠 MCP",
+          "🧩 Skills system",
+          "🖥 Terminal TUI"
+        ]
+      },
       "language": "Java",
-      "description": {
-        "en": "AI programming assistant inspired by Claude Code & Minicode.",
-        "es": "Asistente de programación IA inspirado en Claude Code y Minicode."
-      },
-      "features": {
-        "en": ["☕ Java", "🛠 MCP", "🧩 Skills system", "🖥 Terminal TUI"],
-        "es": ["☕ Java", "🛠 MCP", "🧩 Sistema de skills", "🖥 TUI de terminal"]
-      }
+      "name": "CodeAuto",
+      "repo": "Yulin-Bi/CodeAuto"
     },
     {
-      "repo": "humanunsupervised/orchestra",
+      "description": {
+        "en": "Parallel AI coding assistants in the terminal."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🔀 Parallel agents",
+          "🪟 Tmux integration",
+          "⚡ Fast TUI"
+        ]
+      },
+      "language": "Rust",
       "name": "Orchestra",
-      "language": "Rust",
-      "description": {
-        "en": "Parallel AI coding assistants in the terminal.",
-        "es": "Asistentes de código IA en paralelo en la terminal."
-      },
-      "features": {
-        "en": ["🦀 Rust", "🔀 Parallel agents", "🪟 Tmux integration", "⚡ Fast TUI"],
-        "es": ["🦀 Rust", "🔀 Agentes paralelos", "🪟 Integración Tmux", "⚡ TUI rápido"]
-      }
+      "repo": "humanunsupervised/orchestra"
     },
     {
-      "repo": "francescoalemanno/raijin-mono",
+      "description": {
+        "en": "AI terminal assistant with multi-provider LLM support."
+      },
+      "features": {
+        "en": [
+          "⚡ Go",
+          "🔌 Multi-provider",
+          "🛠 Built-in tools",
+          "📚 Skills for workflows"
+        ]
+      },
+      "language": "Go",
       "name": "Raijin",
-      "language": "Go",
-      "description": {
-        "en": "AI terminal assistant with multi-provider LLM support.",
-        "es": "Asistente de terminal IA con soporte multi-proveedor LLM."
-      },
-      "features": {
-        "en": ["⚡ Go", "🔌 Multi-provider", "🛠 Built-in tools", "📚 Skills for workflows"],
-        "es": ["⚡ Go", "🔌 Multi-proveedor", "🛠 Herramientas integradas", "📚 Skills para flujos"]
-      }
+      "repo": "francescoalemanno/raijin-mono"
     },
     {
-      "repo": "Suren878/matrixclaw",
+      "description": {
+        "en": "Always-on local AI assistant \u0026 coding agent."
+      },
+      "features": {
+        "en": [
+          "🏠 Local-first",
+          "📱 Telegram TUI",
+          "🛠 MCP",
+          "📅 Scheduled tasks",
+          "🧠 Sub-agents"
+        ]
+      },
+      "language": "Go",
       "name": "MatrixClaw",
-      "language": "Go",
-      "description": {
-        "en": "Always-on local AI assistant & coding agent.",
-        "es": "Asistente IA local siempre activo y agente de código."
-      },
-      "features": {
-        "en": ["🏠 Local-first", "📱 Telegram TUI", "🛠 MCP", "📅 Scheduled tasks", "🧠 Sub-agents"],
-        "es": ["🏠 Local-first", "📱 Telegram TUI", "🛠 MCP", "📅 Tareas programadas", "🧠 Sub-agentes"]
-      }
+      "repo": "Suren878/matrixclaw"
     },
     {
-      "repo": "cesp99/spettro",
+      "description": {
+        "en": "Multi-agent coding assistant with planning \u0026 testing."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "📋 Plan/Code/Test",
+          "🎛 Model selection",
+          "🖥 Bubble Tea TUI"
+        ]
+      },
+      "language": "Go",
       "name": "Spettro",
-      "language": "Go",
-      "description": {
-        "en": "Multi-agent coding assistant with planning & testing.",
-        "es": "Asistente multi-agente con planificación y testing."
-      },
-      "features": {
-        "en": ["🤖 Multi-agent", "📋 Plan/Code/Test", "🎛 Model selection", "🖥 Bubble Tea TUI"],
-        "es": ["🤖 Multi-agente", "📋 Plan/Código/Test", "🎛 Selección de modelo", "🖥 Bubble Tea TUI"]
-      }
+      "repo": "cesp99/spettro"
     },
     {
-      "repo": "jyjeanne/crustly",
+      "description": {
+        "en": "Blazingly fast, privacy-first TUI coding assistant."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🔒 Local LLMs",
+          "🪶 Memory-efficient",
+          "🏠 Privacy-first"
+        ]
+      },
+      "language": "Rust",
       "name": "Crustly",
-      "language": "Rust",
-      "description": {
-        "en": "Blazingly fast, privacy-first TUI coding assistant.",
-        "es": "Asistente TUI ultrarrápido con privacidad primero."
-      },
-      "features": {
-        "en": ["🦀 Rust", "🔒 Local LLMs", "🪶 Memory-efficient", "🏠 Privacy-first"],
-        "es": ["🦀 Rust", "🔒 LLMs locales", "🪶 Eficiente en memoria", "🏠 Privacidad primero"]
-      }
+      "repo": "jyjeanne/crustly"
     },
     {
-      "repo": "Ammar-Alnagar/Rust-TUI-Coder",
+      "description": {
+        "en": "Powerful terminal coding assistant with interactive TUI."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "💬 Chat",
+          "⚡ Code exec",
+          "📁 File manipulation",
+          "🎨 Beautiful UI"
+        ]
+      },
+      "language": "Rust",
       "name": "Rust TUI Coder",
-      "language": "Rust",
-      "description": {
-        "en": "Powerful terminal coding assistant with interactive TUI.",
-        "es": "Potente asistente de terminal con TUI interactivo."
-      },
-      "features": {
-        "en": ["🦀 Rust", "💬 Chat", "⚡ Code exec", "📁 File manipulation", "🎨 Beautiful UI"],
-        "es": ["🦀 Rust", "💬 Chat", "⚡ Ejecución de código", "📁 Manipulación de archivos", "🎨 UI bonita"]
-      }
+      "repo": "Ammar-Alnagar/Rust-TUI-Coder"
     },
     {
-      "repo": "sazid/bitcode",
+      "description": {
+        "en": "Agentic loop AI coding assistant with terminal TUI."
+      },
+      "features": {
+        "en": [
+          "🔁 Agentic loop",
+          "🛠 Tool calls",
+          "🛡 Guardrails",
+          "⏰ Reminders"
+        ]
+      },
+      "language": "Go",
       "name": "Bitcode",
-      "language": "Go",
-      "description": {
-        "en": "Agentic loop AI coding assistant with terminal TUI.",
-        "es": "Asistente de código con bucle agéntico y TUI."
-      },
-      "features": {
-        "en": ["🔁 Agentic loop", "🛠 Tool calls", "🛡 Guardrails", "⏰ Reminders"],
-        "es": ["🔁 Bucle agéntico", "🛠 Llamadas a herramientas", "🛡 Guardrails", "⏰ Recordatorios"]
-      }
+      "repo": "sazid/bitcode"
     },
     {
-      "repo": "arborlogic/openzerocode",
+      "description": {
+        "en": "Local-first TUI coding assistant adapted from OpenCode."
+      },
+      "features": {
+        "en": [
+          "🏠 Local-first",
+          "☁ Zero cloud deps",
+          "🔌 Multi-provider",
+          "🧠 Working memory"
+        ]
+      },
+      "language": "TypeScript",
       "name": "OpenZeroCode",
-      "language": "TypeScript",
-      "description": {
-        "en": "Local-first TUI coding assistant adapted from OpenCode.",
-        "es": "Asistente TUI local-first adaptado de OpenCode."
-      },
-      "features": {
-        "en": ["🏠 Local-first", "☁ Zero cloud deps", "🔌 Multi-provider", "🧠 Working memory"],
-        "es": ["🏠 Local-first", "☁ Sin dependencias cloud", "🔌 Multi-proveedor", "🧠 Memoria de trabajo"]
-      }
+      "repo": "arborlogic/openzerocode"
     },
     {
-      "repo": "dadwadw233/agentop",
-      "name": "Agentop",
+      "description": {
+        "en": "Terminal UI for monitoring AI coding agents — htop for AI agents."
+      },
+      "features": {
+        "en": [
+          "📊 Agent monitoring",
+          "🔍 Claude Code/Codex/Antigravity",
+          "📈 Live stats"
+        ]
+      },
       "language": "Python",
-      "description": {
-        "en": "Terminal UI for monitoring AI coding agents — htop for AI agents.",
-        "es": "Interfaz TUI para monitorizar agentes de IA — htop para agentes."
-      },
-      "features": {
-        "en": ["📊 Agent monitoring", "🔍 Claude Code/Codex/Antigravity", "📈 Live stats"],
-        "es": ["📊 Monitor de agentes", "🔍 Claude Code/Codex/Antigravity", "📈 Estadísticas en vivo"]
-      }
+      "name": "Agentop",
+      "repo": "dadwadw233/agentop"
     },
     {
-      "repo": "izzoa/polycode",
+      "description": {
+        "en": "Multi-model consensus coding assistant for your terminal."
+      },
+      "features": {
+        "en": [
+          "🤝 Model consensus",
+          "🔌 Multi-model",
+          "🖥 Terminal TUI"
+        ]
+      },
+      "language": "Go",
       "name": "PolyCode",
-      "language": "Go",
-      "description": {
-        "en": "Multi-model consensus coding assistant for your terminal.",
-        "es": "Asistente de código con consenso multi-modelo para la terminal."
-      },
-      "features": {
-        "en": ["🤝 Model consensus", "🔌 Multi-model", "🖥 Terminal TUI"],
-        "es": ["🤝 Consenso de modelos", "🔌 Multi-modelo", "🖥 TUI de terminal"]
-      }
+      "repo": "izzoa/polycode"
     },
     {
-      "repo": "ChxisB/Talon",
+      "description": {
+        "en": "AI coding assistant with multi-provider support \u0026 web dashboard."
+      },
+      "features": {
+        "en": [
+          "🖥 Web dashboard",
+          "📸 Screenshot analysis",
+          "🔌 Multi-provider",
+          "🎛 TUI"
+        ]
+      },
+      "language": "Go",
       "name": "Talon",
-      "language": "Go",
-      "description": {
-        "en": "AI coding assistant with multi-provider support & web dashboard.",
-        "es": "Asistente IA con soporte multi-proveedor y dashboard web."
-      },
-      "features": {
-        "en": ["🖥 Web dashboard", "📸 Screenshot analysis", "🔌 Multi-provider", "🎛 TUI"],
-        "es": ["🖥 Dashboard web", "📸 Análisis de capturas", "🔌 Multi-proveedor", "🎛 TUI"]
-      }
+      "repo": "ChxisB/Talon"
     },
     {
-      "repo": "CommandCodeAI/command-code",
-      "name": "Command Code",
-      "language": "TypeScript",
       "description": {
-        "en": "The coding agent that learns your coding taste.",
-        "es": "El agente de código que aprende tu estilo de programación."
+        "en": "The coding agent that learns your coding taste."
       },
       "features": {
-        "en": ["🧠 Taste learning", "🔌 Multi-model", "🎛 Slash commands", "💾 Checkpoints & forks", "🤝 Team sharing", "🖥 Terminal TUI"],
-        "es": ["🧠 Aprendizaje de estilo", "🔌 Multi-modelo", "🎛 Comandos slash", "💾 Checkpoints & forks", "🤝 Compartir en equipo", "🖥 TUI de terminal"]
-      }
+        "en": [
+          "🧠 Taste learning",
+          "🔌 Multi-model",
+          "🎛 Slash commands",
+          "💾 Checkpoints \u0026 forks",
+          "🤝 Team sharing",
+          "🖥 Terminal TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Command Code",
+      "repo": "CommandCodeAI/command-code"
     }
   ]
 }

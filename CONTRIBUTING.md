@@ -5,7 +5,7 @@ Thanks for helping grow this list! Here's how to add a TUI.
 ## 🚀 Quick Start
 
 1. **Fork** this repo
-2. **Add** your TUI row to [`README.md`](README.md) (and optionally [`README.es.md`](README.es.md))
+2. **Add** your TUI row to [`README.md`](README.md)
 3. **Open a Pull Request**
 
 ## 📋 Row Template
@@ -69,10 +69,6 @@ A tool must:
 - Web-based tools (browser-only)
 - Pure CLI tools without a TUI (one-shot commands)
 - General-purpose AI chatbots without coding focus
-
-## 🌐 Multi-language
-
-If you speak Spanish (or another language), please also update [`README.es.md`](README.es.md) (or propose a new translation file like `README.fr.md`).
 
 ## 📬 Submitting
 
