@@ -15,12 +15,12 @@ A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assi
 
 | # | Name | ⭐ Stars | Language | Description | Key Features |
 |---|------|---------|----------|-------------|--------------|
-| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 179.3k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
-| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134.6k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
+| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 179.9k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
+| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 134.7k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
 | 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 105.6k | TypeScript | Google's AI agent with Gemini in your terminal. | 🌟 Gemini powered · 🛠 MCP client/server · 🔓 Open source · 🧩 Multi-tool orchestration · ⚡ Fast startup |
-| 4 | [**Codex**](https://github.com/openai/codex) | 94.0k | Rust | OpenAI's lightweight coding agent for the terminal. | 🪶 Lightweight binary · 🦀 Rust-powered · 🔌 OpenAI models · 🔒 Sandboxed exec · ⚡ Fast & snappy |
-| 5 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 64.1k | Rust | Coding agent for open models (DeepSeek, Kimi, Qwen). | 🧠 ReAct agent · 🦀 Rust · 🏠 Local-first · 🌍 Open models · 🛠 Rich tool set |
-| 6 | [**Aider**](https://github.com/Aider-AI/aider) | 46.7k | Python | AI pair programming in your terminal. | 🤝 Pair programming · 🧠 Multi-model (GPT, Claude, Gemini) · 🌳 Git-aware diffs · 🗺 Map-reduce context · 🎙 Voice coding |
+| 4 | [**Codex**](https://github.com/openai/codex) | 94.1k | Rust | OpenAI's lightweight coding agent for the terminal. | 🪶 Lightweight binary · 🦀 Rust-powered · 🔌 OpenAI models · 🔒 Sandboxed exec · ⚡ Fast & snappy |
+| 5 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 64.2k | Rust | Coding agent for open models (DeepSeek, Kimi, Qwen). | 🧠 ReAct agent · 🦀 Rust · 🏠 Local-first · 🌍 Open models · 🛠 Rich tool set |
+| 6 | [**Aider**](https://github.com/Aider-AI/aider) | 46.8k | Python | AI pair programming in your terminal. | 🤝 Pair programming · 🧠 Multi-model (GPT, Claude, Gemini) · 🌳 Git-aware diffs · 🗺 Map-reduce context · 🎙 Voice coding |
 | 7 | [**Crush**](https://github.com/charmbracelet/crush) | 25.8k | Go | Glamourous agentic coding for all. The Charm terminal AI assistant. | 💘 Glamourous TUI · 🧠 Agentic loop · 🔌 Multi-provider · 🛠 MCP & LSP · 🪝 Hooks system · ⚡ Bubble Tea (Go) |
 | 8 | [**Copilot CLI**](https://github.com/github/copilot-cli) | 10.9k | Shell | GitHub Copilot agent in your terminal. | 🐙 GitHub native · 💻 Shell commands · 📝 Code explanations · 🔗 `gh` CLI integration |
 | 9 | [**JCode**](https://github.com/1jehuang/jcode) | 7.8k | Rust | Coding Agent Harness. | 🐝 Swarm mode · 🎛 Multi-provider (Claude, OpenAI) · 🛠 MCP · 🦀 Rust · ⚙ Agent harness |
