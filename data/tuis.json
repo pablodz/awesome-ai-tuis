@@ -63,7 +63,7 @@
           "🦀 Rust-powered",
           "🔌 OpenAI models",
           "🔒 Sandboxed exec",
-          "⚡ Fast \u0026 snappy"
+          "⚡ Fast & snappy"
         ]
       },
       "language": "Rust",
@@ -129,7 +129,7 @@
           "💘 Glamourous TUI",
           "🧠 Agentic loop",
           "🔌 Multi-provider",
-          "🛠 MCP \u0026 LSP",
+          "🛠 MCP & LSP",
           "🪝 Hooks system",
           "⚡ Bubble Tea (Go)"
         ]
@@ -205,7 +205,7 @@
     },
     {
       "description": {
-        "en": "Noise-canceling context \u0026 long-term memory for AI agents."
+        "en": "Noise-canceling context & long-term memory for AI agents."
       },
       "features": {
         "en": [
@@ -253,7 +253,7 @@
     },
     {
       "description": {
-        "en": "Multi-provider assistant \u0026 session monitor with TUI dashboard."
+        "en": "Multi-provider assistant & session monitor with TUI dashboard."
       },
       "features": {
         "en": [
@@ -285,7 +285,7 @@
     },
     {
       "description": {
-        "en": "AI programming assistant inspired by Claude Code \u0026 Minicode."
+        "en": "AI programming assistant inspired by Claude Code & Minicode."
       },
       "features": {
         "en": [
@@ -333,7 +333,7 @@
     },
     {
       "description": {
-        "en": "Always-on local AI assistant \u0026 coding agent."
+        "en": "Always-on local AI assistant & coding agent."
       },
       "features": {
         "en": [
@@ -350,7 +350,7 @@
     },
     {
       "description": {
-        "en": "Multi-agent coding assistant with planning \u0026 testing."
+        "en": "Multi-agent coding assistant with planning & testing."
       },
       "features": {
         "en": [
@@ -461,7 +461,7 @@
     },
     {
       "description": {
-        "en": "AI coding assistant with multi-provider support \u0026 web dashboard."
+        "en": "AI coding assistant with multi-provider support & web dashboard."
       },
       "features": {
         "en": [
@@ -484,7 +484,7 @@
           "🧠 Taste learning",
           "🔌 Multi-model",
           "🎛 Slash commands",
-          "💾 Checkpoints \u0026 forks",
+          "💾 Checkpoints & forks",
           "🤝 Team sharing",
           "🖥 Terminal TUI"
         ]
@@ -492,6 +492,838 @@
       "language": "TypeScript",
       "name": "Command Code",
       "repo": "CommandCodeAI/command-code"
+    },
+    {
+      "description": {
+        "en": "Extensible on-machine AI agent that writes, edits, and tests code with any LLM."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🦀 Rust",
+          "🔌 Multi-provider",
+          "🛠 MCP & extensions",
+          "🏠 On-machine"
+        ]
+      },
+      "language": "Rust",
+      "name": "Goose",
+      "repo": "aaif-goose/goose"
+    },
+    {
+      "description": {
+        "en": "Alibaba's open-source terminal coding agent tuned for Qwen-Coder models."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "📜 TypeScript",
+          "🔌 Multi-provider",
+          "🛠 MCP",
+          "🤝 Sub-agents"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Qwen Code",
+      "repo": "QwenLM/qwen-code"
+    },
+    {
+      "description": {
+        "en": "Terminal AI agent for large, multi-file tasks with a cumulative diff sandbox."
+      },
+      "features": {
+        "en": [
+          "📋 Planning",
+          "📝 Diff sandbox",
+          "🧠 Agentic",
+          "⚡ Go",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Go",
+      "name": "Plandex",
+      "repo": "plandex-ai/plandex"
+    },
+    {
+      "description": {
+        "en": "AI pair programmer in the terminal supporting 300+ models."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🧠 Agentic",
+          "🔌 300+ models",
+          "🛠 MCP",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Rust",
+      "name": "Forge",
+      "repo": "tailcallhq/forgecode"
+    },
+    {
+      "description": {
+        "en": "AWS's agentic chat coding experience for the terminal."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🦀 Rust",
+          "🛠 MCP & tools",
+          "🖥 TUI",
+          "☁ AWS"
+        ]
+      },
+      "language": "Rust",
+      "name": "Amazon Q Developer CLI",
+      "repo": "aws/amazon-q-developer-cli"
+    },
+    {
+      "description": {
+        "en": "Moonshot's terminal AI agent for coding and shell ops with a built-in shell mode."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🐍 Python",
+          "🐚 Shell mode",
+          "🛠 MCP",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Python",
+      "name": "Kimi CLI",
+      "repo": "MoonshotAI/kimi-cli"
+    },
+    {
+      "description": {
+        "en": "Terminal coding agent for xAI's Grok with subagents and web/X search."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "📜 TypeScript",
+          "🤝 Sub-agents",
+          "🛠 MCP",
+          "🔎 Web/X search"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Grok CLI",
+      "repo": "superagent-ai/grok-cli"
+    },
+    {
+      "description": {
+        "en": "ByteDance's modular, research-friendly coding agent with an interactive CLI."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🐍 Python",
+          "🔌 Multi-provider",
+          "🛠 MCP",
+          "🧪 Research-friendly"
+        ]
+      },
+      "language": "Python",
+      "name": "Trae Agent",
+      "repo": "bytedance/trae-agent"
+    },
+    {
+      "description": {
+        "en": "Multi-model terminal coding agent with @mention expert consultation and subagents."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "📜 TypeScript",
+          "🔌 Multi-provider",
+          "🛠 MCP",
+          "🎨 Beautiful UI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Kode",
+      "repo": "shareAI-lab/Kode-CLI"
+    },
+    {
+      "description": {
+        "en": "Open-source autonomous coding agent with a model-agnostic interactive terminal CLI."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🐍 Python",
+          "🖥 TUI",
+          "🔌 Multi-provider",
+          "🛠 MCP"
+        ]
+      },
+      "language": "Python",
+      "name": "OpenHands",
+      "repo": "OpenHands/OpenHands"
+    },
+    {
+      "description": {
+        "en": "Local-first terminal agent that writes code, runs the shell, and browses the web."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🐍 Python",
+          "🏠 Local-first",
+          "🛠 Tools & shell",
+          "🔌 Multi-provider"
+        ]
+      },
+      "language": "Python",
+      "name": "gptme",
+      "repo": "gptme/gptme"
+    },
+    {
+      "description": {
+        "en": "Zero-telemetry terminal coding agent that swaps models mid-conversation."
+      },
+      "features": {
+        "en": [
+          "🔒 Zero telemetry",
+          "📜 TypeScript",
+          "🔌 Multi-provider",
+          "🛠 MCP",
+          "🖥 TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Octofriend",
+      "repo": "synthetic-lab/octofriend"
+    },
+    {
+      "description": {
+        "en": "Augment's agentic CLI with a full-screen TUI and whole-codebase context."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🖥 Full-screen TUI",
+          "📚 Codebase context",
+          "🛠 MCP",
+          "📝 Diffs"
+        ]
+      },
+      "language": "Shell",
+      "name": "Auggie CLI",
+      "repo": "augmentcode/auggie"
+    },
+    {
+      "description": {
+        "en": "Factory's Droid agent: a full-screen terminal TUI plus headless mode."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "🖥 TUI",
+          "📝 Diffs",
+          "🛠 MCP",
+          "🤖 Droid agent"
+        ]
+      },
+      "language": "—",
+      "name": "Factory Droid",
+      "repo": "Factory-AI/factory"
+    },
+    {
+      "description": {
+        "en": "Community-built local-first coding agent for your terminal."
+      },
+      "features": {
+        "en": [
+          "🏠 Local-first",
+          "📜 TypeScript",
+          "🔌 Multi-provider",
+          "🧠 Agentic",
+          "🖥 TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Nanocoder",
+      "repo": "Nano-Collective/nanocoder"
+    },
+    {
+      "description": {
+        "en": "AI agent toolkit with a unified LLM API, agent loop, and coding-agent TUI."
+      },
+      "features": {
+        "en": [
+          "🧠 Agent loop",
+          "📜 TypeScript",
+          "🔌 Unified LLM API",
+          "🛠 Tools",
+          "🖥 TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Pi",
+      "repo": "earendil-works/pi"
+    },
+    {
+      "description": {
+        "en": "Terminal coding agent with hash-anchored edits, LSP, subagents, and browser."
+      },
+      "features": {
+        "en": [
+          "🧠 Agentic",
+          "📜 TypeScript",
+          "🛠 MCP & LSP",
+          "🤝 Sub-agents",
+          "📝 Hash-anchored edits"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "oh-my-pi",
+      "repo": "can1357/oh-my-pi"
+    },
+    {
+      "description": {
+        "en": "Autonomous coding agent with research, planning, and human-in-the-loop chat."
+      },
+      "features": {
+        "en": [
+          "📋 Planning",
+          "🐍 Python",
+          "🧠 Autonomous",
+          "🌳 Git",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Python",
+      "name": "RA.Aid",
+      "repo": "ai-christianson/RA.Aid"
+    },
+    {
+      "description": {
+        "en": "Clean-room Rust reimplementation of Claude Code with a rich TUI."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🧠 Agentic",
+          "🖥 Rich TUI",
+          "🔌 Multi-provider",
+          "🏠 Local"
+        ]
+      },
+      "language": "Rust",
+      "name": "Claurst",
+      "repo": "Kuberwastaken/claurst"
+    },
+    {
+      "description": {
+        "en": "High-performance AI coding agent CLI in Rust with zero unsafe code."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "⚡ High-performance",
+          "🧠 Agentic",
+          "🛠 Tools",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Rust",
+      "name": "Pi Agent Rust",
+      "repo": "Dicklesworthstone/pi_agent_rust"
+    },
+    {
+      "description": {
+        "en": "Lightweight low-memory coding agent in Rust with a crossterm TUI."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🪶 Low-memory",
+          "🔌 Multi-provider",
+          "🖥 TUI",
+          "⚡ Fast"
+        ]
+      },
+      "language": "Rust",
+      "name": "Zerostack",
+      "repo": "gi-dellav/zerostack"
+    },
+    {
+      "description": {
+        "en": "Rust coding agent with chat, planning, and autonomous modes."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🧠 Agentic",
+          "📋 Planning",
+          "🖥 TUI",
+          "🛠 Tools"
+        ]
+      },
+      "language": "Rust",
+      "name": "g3",
+      "repo": "dhanji/g3"
+    },
+    {
+      "description": {
+        "en": "TUI-first coding agent in Rust with vim editing and themes."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🖥 TUI",
+          "✏ Vim editing",
+          "🔌 Multi-provider",
+          "🛠 MCP"
+        ]
+      },
+      "language": "Rust",
+      "name": "Steer",
+      "repo": "BrendanGraham14/steer"
+    },
+    {
+      "description": {
+        "en": "Fast, Lua-scriptable AI coding agent for the terminal."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "📜 Lua-scriptable",
+          "🔌 Multi-provider",
+          "🧠 Agentic",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Rust",
+      "name": "Smelt",
+      "repo": "leonardcser/smelt"
+    },
+    {
+      "description": {
+        "en": "Ratatui coding agent with fuzzy navigation and tmux task management."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🖥 Ratatui TUI",
+          "🛠 MCP",
+          "🪟 tmux tasks",
+          "🧠 Agentic"
+        ]
+      },
+      "language": "Rust",
+      "name": "rust-code",
+      "repo": "fortunto2/rust-code"
+    },
+    {
+      "description": {
+        "en": "All-in-one LLM CLI with an interactive chat REPL and shell assistant."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "💬 Chat REPL",
+          "🔌 Multi-provider",
+          "🐚 Shell assistant",
+          "🛠 Function tools"
+        ]
+      },
+      "language": "Rust",
+      "name": "AIChat",
+      "repo": "sigoden/aichat"
+    },
+    {
+      "description": {
+        "en": "Terminal client for Ollama with persistent chats, tools, and MCP support."
+      },
+      "features": {
+        "en": [
+          "🐍 Python",
+          "🦙 Ollama-native",
+          "💬 Persistent chats",
+          "🛠 MCP",
+          "🖥 Textual TUI"
+        ]
+      },
+      "language": "Python",
+      "name": "oterm",
+      "repo": "ggozad/oterm"
+    },
+    {
+      "description": {
+        "en": "Snappy, keyboard-centric terminal UI for chatting with local and cloud LLMs."
+      },
+      "features": {
+        "en": [
+          "🐍 Python",
+          "🖥 Keyboard-centric TUI",
+          "🔌 Multi-provider",
+          "🦙 Local models",
+          "🎨 Beautiful UI"
+        ]
+      },
+      "language": "Python",
+      "name": "Elia",
+      "repo": "darrenburns/elia"
+    },
+    {
+      "description": {
+        "en": "Rust TUI for chatting with LLMs including ChatGPT, llama.cpp, and Ollama."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🖥 TUI",
+          "🦙 Ollama/llama.cpp",
+          "💬 Chat",
+          "⚡ Streaming"
+        ]
+      },
+      "language": "Rust",
+      "name": "Tenere",
+      "repo": "pythops/tenere"
+    },
+    {
+      "description": {
+        "en": "Terminal UI to chat with LLMs across backends, with editor integrations."
+      },
+      "features": {
+        "en": [
+          "🦀 Rust",
+          "🖥 TUI",
+          "🦙 Ollama & local",
+          "✏ Editor integrations",
+          "💬 Chat"
+        ]
+      },
+      "language": "Rust",
+      "name": "Oatmeal",
+      "repo": "dustinblackman/oatmeal"
+    },
+    {
+      "description": {
+        "en": "Textual TUI for Ollama and other providers with chat and model management."
+      },
+      "features": {
+        "en": [
+          "🐍 Python",
+          "🦙 Ollama",
+          "🖥 Textual TUI",
+          "🔌 Multi-provider",
+          "🛠 Model management"
+        ]
+      },
+      "language": "Python",
+      "name": "PAR LLAMA",
+      "repo": "paulrobello/parllama"
+    },
+    {
+      "description": {
+        "en": "Manage multiple Claude Code, Codex, and Aider agents in isolated tmux workspaces."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "🪟 tmux sessions",
+          "🌲 Git worktrees",
+          "🖥 TUI",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "Claude Squad",
+      "repo": "smtg-ai/claude-squad"
+    },
+    {
+      "description": {
+        "en": "Real-time token, cost, and rate-limit monitor for Claude Code sessions."
+      },
+      "features": {
+        "en": [
+          "💰 Cost/usage",
+          "👁 Real-time",
+          "📊 Dashboard",
+          "🐍 Python",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Python",
+      "name": "Claude Code Usage Monitor",
+      "repo": "Maciek-roboblog/Claude-Code-Usage-Monitor"
+    },
+    {
+      "description": {
+        "en": "Htop-style TUI to monitor Claude Code and Codex sessions, tokens, and limits."
+      },
+      "features": {
+        "en": [
+          "👁 Monitoring",
+          "💰 Token tracking",
+          "📊 Dashboard",
+          "🦀 Rust",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Rust",
+      "name": "abtop",
+      "repo": "graykode/abtop"
+    },
+    {
+      "description": {
+        "en": "Unified terminal UI to run and switch between multiple AI coding agents."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "🎛 Orchestration",
+          "🖥 TUI",
+          "📊 Agent state",
+          "🐍 Python"
+        ]
+      },
+      "language": "Python",
+      "name": "Toad",
+      "repo": "batrachianai/toad"
+    },
+    {
+      "description": {
+        "en": "TUI session manager to run many AI coding agents via tmux and worktrees."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🤖 Multi-agent",
+          "🪟 tmux",
+          "🌲 Git worktrees",
+          "🦀 Rust"
+        ]
+      },
+      "language": "Rust",
+      "name": "Agent of Empires",
+      "repo": "agent-of-empires/agent-of-empires"
+    },
+    {
+      "description": {
+        "en": "Terminal orchestrator that loops AI agents through task lists autonomously."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🖥 TUI",
+          "🤖 Multi-agent",
+          "👁 Tracing",
+          "📜 TypeScript"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "Ralph TUI",
+      "repo": "subsy/ralph-tui"
+    },
+    {
+      "description": {
+        "en": "Session manager to run parallel AI coding agents across Git worktrees."
+      },
+      "features": {
+        "en": [
+          "🎛 Session manager",
+          "🌲 Git worktrees",
+          "🔀 Parallel",
+          "🤖 Multi-agent",
+          "📜 TypeScript"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "CCManager",
+      "repo": "kbwo/ccmanager"
+    },
+    {
+      "description": {
+        "en": "Orchestrates 20+ parallel Claude Code agents with tmux monitoring."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🔀 20+ parallel",
+          "🪟 tmux",
+          "👁 Monitoring",
+          "🐚 Shell"
+        ]
+      },
+      "language": "Shell",
+      "name": "Claude Code Agent Farm",
+      "repo": "Dicklesworthstone/claude_code_agent_farm"
+    },
+    {
+      "description": {
+        "en": "Terminal mission control to manage and orchestrate many coding-agent sessions."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🤖 Multi-agent",
+          "🌲 Git worktrees",
+          "💰 Cost tracking",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "Agent Deck",
+      "repo": "asheshgoplani/agent-deck"
+    },
+    {
+      "description": {
+        "en": "Browse and live-tail Claude Code sessions from a terminal UI viewer."
+      },
+      "features": {
+        "en": [
+          "👁 Live-tail",
+          "🖥 TUI",
+          "📊 Session viewer",
+          "🦀 Rust"
+        ]
+      },
+      "language": "Rust",
+      "name": "Claude Code Trace",
+      "repo": "delexw/claude-code-trace"
+    },
+    {
+      "description": {
+        "en": "TUI to run coding agents in parallel across tmux sessions and Git worktrees."
+      },
+      "features": {
+        "en": [
+          "🔀 Parallel",
+          "🤖 Multi-agent",
+          "🪟 tmux",
+          "🌲 Git worktrees",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "amux",
+      "repo": "andyrewlee/amux"
+    },
+    {
+      "description": {
+        "en": "TUI kanban board that orchestrates AI coding agents in per-ticket worktrees."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🌲 Git worktrees",
+          "🤖 Multi-agent",
+          "📋 Kanban",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "OpenKanban",
+      "repo": "TechDufus/openkanban"
+    },
+    {
+      "description": {
+        "en": "Htop for AI costs — live terminal monitor of token spend across providers."
+      },
+      "features": {
+        "en": [
+          "💰 Cost/usage",
+          "👁 Real-time",
+          "📊 Dashboard",
+          "📜 TypeScript",
+          "🖥 TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "tokentop",
+      "repo": "tokentopapp/tokentop"
+    },
+    {
+      "description": {
+        "en": "Spawn and control hierarchies of Claude Code agents from a tmux TUI."
+      },
+      "features": {
+        "en": [
+          "🎛 Orchestration",
+          "🤖 Agent hierarchies",
+          "🪟 tmux",
+          "🌲 Git worktrees",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Shell",
+      "name": "IttyBitty",
+      "repo": "adamwulf/ittybitty"
+    },
+    {
+      "description": {
+        "en": "Terminal observability dashboard for tokens and tool usage across agents."
+      },
+      "features": {
+        "en": [
+          "👁 Monitoring",
+          "📊 Dashboard",
+          "🤖 Multi-agent",
+          "🦀 Rust",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Rust",
+      "name": "agenttop",
+      "repo": "tech4242/agenttop"
+    },
+    {
+      "description": {
+        "en": "Local terminal timeline monitoring every coding agent you run, with cost tracking."
+      },
+      "features": {
+        "en": [
+          "👁 Monitoring",
+          "💰 Cost tracking",
+          "🤖 Multi-agent",
+          "📜 TypeScript",
+          "🖥 TUI"
+        ]
+      },
+      "language": "TypeScript",
+      "name": "agentwatch",
+      "repo": "mishanefedov/agentwatch"
+    },
+    {
+      "description": {
+        "en": "Real-time terminal dashboard for Claude Code, Codex, and agent fleets."
+      },
+      "features": {
+        "en": [
+          "👁 Monitoring",
+          "📊 Dashboard",
+          "🤖 Multi-agent",
+          "💰 Cost tracking",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "agent-htop",
+      "repo": "acunningham-ship-it/agent-htop"
+    },
+    {
+      "description": {
+        "en": "Live session dashboard and analytics with a statusline for Claude Code."
+      },
+      "features": {
+        "en": [
+          "👁 Live monitoring",
+          "📊 Dashboard",
+          "💰 Cost/usage",
+          "🐍 Python",
+          "🖥 TUI"
+        ]
+      },
+      "language": "Python",
+      "name": "ClaudeTUI",
+      "repo": "slima4/claude-tui"
     }
   ]
 }

@@ -13,6 +13,11 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "data" / "tuis.json"
 README_EN = ROOT / "README.md"
 
+# Only list tools with more than this many stars in the README.
+# The data file keeps every entry; anything above the threshold shows up
+# automatically once it grows past it.
+MIN_STARS = 100
+
 # GitHub token from env (optional, avoids rate limiting)
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
@@ -95,7 +100,7 @@ A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assi
 
 ## 📊 The List
 
-> Ordered by GitHub stars (descending). Updated automatically every day.
+> Ordered by GitHub stars (descending). Only tools with 100+ stars are listed. Updated automatically every day.
 
 {stars_table}
 
@@ -160,8 +165,12 @@ def main():
     # Sort by stars descending
     tuis.sort(key=lambda t: t["stars"], reverse=True)
 
-    print("\n📝 Generating README.md...")
-    table_en = build_table(tuis)
+    # Only list tools with more than MIN_STARS stars in the README
+    listed = [t for t in tuis if t["stars"] > MIN_STARS]
+    hidden = len(tuis) - len(listed)
+    print(f"\n📝 Generating README.md ({len(listed)} listed, "
+          f"{hidden} below {MIN_STARS}★ threshold)...")
+    table_en = build_table(listed)
     readme_en = README_EN_TEMPLATE.format(stars_table=table_en)
     with open(README_EN, "w") as f:
         f.write(readme_en)
