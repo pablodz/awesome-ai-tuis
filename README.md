@@ -15,19 +15,19 @@ A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assi
 
 | # | Name | ⭐ Stars | Language | Description | Key Features |
 |---|------|---------|----------|-------------|--------------|
-| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 193.5k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
-| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 140.3k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
+| 1 | [**OpenCode**](https://github.com/anomalyco/opencode) | 194.0k | TypeScript | The open source coding agent. | 🧠 Plan/Implement modes · 🎨 TUI-first · 🔌 Multi-provider · 📝 Inline diff editing · 🗂 File-aware context · ⚡ Terminal-native |
+| 2 | [**Claude Code**](https://github.com/anthropics/claude-code) | 140.4k | Python | Anthropic's agentic coding tool that lives in your terminal. | 🧠 Agentic loop · 📚 Codebase understanding · 🌳 Git workflows · 🛠 MCP tools · 🤝 Sub-agents · 💬 Natural language |
 | 3 | [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 106.4k | TypeScript | Google's AI agent with Gemini in your terminal. | 🌟 Gemini powered · 🛠 MCP client/server · 🔓 Open source · 🧩 Multi-tool orchestration · ⚡ Fast startup |
-| 4 | [**Codex**](https://github.com/openai/codex) | 104.0k | Rust | OpenAI's lightweight coding agent for the terminal. | 🪶 Lightweight binary · 🦀 Rust-powered · 🔌 OpenAI models · 🔒 Sandboxed exec · ⚡ Fast & snappy |
-| 5 | [**Pi**](https://github.com/earendil-works/pi) | 83.8k | TypeScript | AI agent toolkit with a unified LLM API, agent loop, and coding-agent TUI. | 🧠 Agent loop · 📜 TypeScript · 🔌 Unified LLM API · 🛠 Tools · 🖥 TUI |
-| 6 | [**OpenHands**](https://github.com/OpenHands/OpenHands) | 83.1k | Python | Open-source autonomous coding agent with a model-agnostic interactive terminal CLI. | 🧠 Agentic · 🐍 Python · 🖥 TUI · 🔌 Multi-provider · 🛠 MCP |
-| 7 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 67.6k | Rust | Coding agent for open models (DeepSeek, Kimi, Qwen). | 🧠 ReAct agent · 🦀 Rust · 🏠 Local-first · 🌍 Open models · 🛠 Rich tool set |
-| 8 | [**Goose**](https://github.com/aaif-goose/goose) | 52.3k | Rust | Extensible on-machine AI agent that writes, edits, and tests code with any LLM. | 🧠 Agentic · 🦀 Rust · 🔌 Multi-provider · 🛠 MCP & extensions · 🏠 On-machine |
-| 9 | [**Aider**](https://github.com/Aider-AI/aider) | 47.9k | Python | AI pair programming in your terminal. | 🤝 Pair programming · 🧠 Multi-model (GPT, Claude, Gemini) · 🌳 Git-aware diffs · 🗺 Map-reduce context · 🎙 Voice coding |
+| 4 | [**Codex**](https://github.com/openai/codex) | 104.3k | Rust | OpenAI's lightweight coding agent for the terminal. | 🪶 Lightweight binary · 🦀 Rust-powered · 🔌 OpenAI models · 🔒 Sandboxed exec · ⚡ Fast & snappy |
+| 5 | [**Pi**](https://github.com/earendil-works/pi) | 84.4k | TypeScript | AI agent toolkit with a unified LLM API, agent loop, and coding-agent TUI. | 🧠 Agent loop · 📜 TypeScript · 🔌 Unified LLM API · 🛠 Tools · 🖥 TUI |
+| 6 | [**OpenHands**](https://github.com/OpenHands/OpenHands) | 83.2k | Python | Open-source autonomous coding agent with a model-agnostic interactive terminal CLI. | 🧠 Agentic · 🐍 Python · 🖥 TUI · 🔌 Multi-provider · 🛠 MCP |
+| 7 | [**Open Interpreter**](https://github.com/openinterpreter/openinterpreter) | 67.7k | Rust | Coding agent for open models (DeepSeek, Kimi, Qwen). | 🧠 ReAct agent · 🦀 Rust · 🏠 Local-first · 🌍 Open models · 🛠 Rich tool set |
+| 8 | [**Goose**](https://github.com/aaif-goose/goose) | 52.4k | Rust | Extensible on-machine AI agent that writes, edits, and tests code with any LLM. | 🧠 Agentic · 🦀 Rust · 🔌 Multi-provider · 🛠 MCP & extensions · 🏠 On-machine |
+| 9 | [**Aider**](https://github.com/Aider-AI/aider) | 48.0k | Python | AI pair programming in your terminal. | 🤝 Pair programming · 🧠 Multi-model (GPT, Claude, Gemini) · 🌳 Git-aware diffs · 🗺 Map-reduce context · 🎙 Voice coding |
 | 10 | [**Crush**](https://github.com/charmbracelet/crush) | 27.1k | Go | Glamourous agentic coding for all. The Charm terminal AI assistant. | 💘 Glamourous TUI · 🧠 Agentic loop · 🔌 Multi-provider · 🛠 MCP & LSP · 🪝 Hooks system · ⚡ Bubble Tea (Go) |
-| 11 | [**Qwen Code**](https://github.com/QwenLM/qwen-code) | 26.7k | TypeScript | Alibaba's open-source terminal coding agent tuned for Qwen-Coder models. | 🧠 Agentic · 📜 TypeScript · 🔌 Multi-provider · 🛠 MCP · 🤝 Sub-agents |
-| 12 | [**oh-my-pi**](https://github.com/can1357/oh-my-pi) | 22.0k | TypeScript | Terminal coding agent with hash-anchored edits, LSP, subagents, and browser. | 🧠 Agentic · 📜 TypeScript · 🛠 MCP & LSP · 🤝 Sub-agents · 📝 Hash-anchored edits |
-| 13 | [**JCode**](https://github.com/1jehuang/jcode) | 15.9k | Rust | Coding Agent Harness. | 🐝 Swarm mode · 🎛 Multi-provider (Claude, OpenAI) · 🛠 MCP · 🦀 Rust · ⚙ Agent harness |
+| 11 | [**Qwen Code**](https://github.com/QwenLM/qwen-code) | 26.8k | TypeScript | Alibaba's open-source terminal coding agent tuned for Qwen-Coder models. | 🧠 Agentic · 📜 TypeScript · 🔌 Multi-provider · 🛠 MCP · 🤝 Sub-agents |
+| 12 | [**oh-my-pi**](https://github.com/can1357/oh-my-pi) | 22.3k | TypeScript | Terminal coding agent with hash-anchored edits, LSP, subagents, and browser. | 🧠 Agentic · 📜 TypeScript · 🛠 MCP & LSP · 🤝 Sub-agents · 📝 Hash-anchored edits |
+| 13 | [**JCode**](https://github.com/1jehuang/jcode) | 16.1k | Rust | Coding Agent Harness. | 🐝 Swarm mode · 🎛 Multi-provider (Claude, OpenAI) · 🛠 MCP · 🦀 Rust · ⚙ Agent harness |
 | 14 | [**Plandex**](https://github.com/plandex-ai/plandex) | 15.6k | Go | Terminal AI agent for large, multi-file tasks with a cumulative diff sandbox. | 📋 Planning · 📝 Diff sandbox · 🧠 Agentic · ⚡ Go · 🖥 TUI |
 | 15 | [**Trae Agent**](https://github.com/bytedance/trae-agent) | 12.0k | Python | ByteDance's modular, research-friendly coding agent with an interactive CLI. | 🧠 Agentic · 🐍 Python · 🔌 Multi-provider · 🛠 MCP · 🧪 Research-friendly |
 | 16 | [**Kimi CLI**](https://github.com/MoonshotAI/kimi-cli) | 11.1k | Python | Moonshot's terminal AI agent for coding and shell ops with a built-in shell mode. | 🧠 Agentic · 🐍 Python · 🐚 Shell mode · 🛠 MCP · 🖥 TUI |
@@ -57,20 +57,20 @@ A hand-picked list of **TUI (Terminal User Interface)** tools that bring AI-assi
 | 40 | [**Octofriend**](https://github.com/synthetic-lab/octofriend) | 996 | TypeScript | Zero-telemetry terminal coding agent that swaps models mid-conversation. | 🔒 Zero telemetry · 📜 TypeScript · 🔌 Multi-provider · 🛠 MCP · 🖥 TUI |
 | 41 | [**Claude Code Agent Farm**](https://github.com/Dicklesworthstone/claude_code_agent_farm) | 882 | Shell | Orchestrates 20+ parallel Claude Code agents with tmux monitoring. | 🎛 Orchestration · 🔀 20+ parallel · 🪟 tmux · 👁 Monitoring · 🐚 Shell |
 | 42 | [**Oatmeal**](https://github.com/dustinblackman/oatmeal) | 772 | Rust | Terminal UI to chat with LLMs across backends, with editor integrations. | 🦀 Rust · 🖥 TUI · 🦙 Ollama & local · ✏ Editor integrations · 💬 Chat |
-| 43 | [**Tenere**](https://github.com/pythops/tenere) | 677 | Rust | Rust TUI for chatting with LLMs including ChatGPT, llama.cpp, and Ollama. | 🦀 Rust · 🖥 TUI · 🦙 Ollama/llama.cpp · 💬 Chat · ⚡ Streaming |
-| 44 | [**Agent Deck**](https://github.com/asheshgoplani/agent-deck) | 658 | Go | Terminal mission control to manage and orchestrate many coding-agent sessions. | 🎛 Orchestration · 🤖 Multi-agent · 🌲 Git worktrees · 💰 Cost tracking · ⚡ Go |
+| 43 | [**Tenere**](https://github.com/pythops/tenere) | 678 | Rust | Rust TUI for chatting with LLMs including ChatGPT, llama.cpp, and Ollama. | 🦀 Rust · 🖥 TUI · 🦙 Ollama/llama.cpp · 💬 Chat · ⚡ Streaming |
+| 44 | [**Agent Deck**](https://github.com/asheshgoplani/agent-deck) | 661 | Go | Terminal mission control to manage and orchestrate many coding-agent sessions. | 🎛 Orchestration · 🤖 Multi-agent · 🌲 Git worktrees · 💰 Cost tracking · ⚡ Go |
 | 45 | [**g3**](https://github.com/dhanji/g3) | 516 | Rust | Rust coding agent with chat, planning, and autonomous modes. | 🦀 Rust · 🧠 Agentic · 📋 Planning · 🖥 TUI · 🛠 Tools |
 | 46 | [**PAR LLAMA**](https://github.com/paulrobello/parllama) | 484 | Python | Textual TUI for Ollama and other providers with chat and model management. | 🐍 Python · 🦙 Ollama · 🖥 Textual TUI · 🔌 Multi-provider · 🛠 Model management |
-| 47 | [**Bridle**](https://github.com/neiii/bridle) | 432 | Rust | TUI/CLI config manager for agentic harnesses. | ⚙ Config manager · 🔌 Multi-harness (Claude, OpenCode, Copilot) · 🛠 MCP · 🦀 Rust |
+| 47 | [**Bridle**](https://github.com/neiii/bridle) | 433 | Rust | TUI/CLI config manager for agentic harnesses. | ⚙ Config manager · 🔌 Multi-harness (Claude, OpenCode, Copilot) · 🛠 MCP · 🦀 Rust |
 | 48 | [**HCom**](https://github.com/aannoo/hcom) | 419 | Rust | Let AI agents message, watch, and spawn each other across terminals. | 💬 Agent communication · 🔄 Cross-terminal · 🧠 Multi-agent orchestration · 🦀 Rust |
 | 49 | [**Claude Code Trace**](https://github.com/delexw/claude-code-trace) | 364 | Rust | Browse and live-tail Claude Code sessions from a terminal UI viewer. | 👁 Live-tail · 🖥 TUI · 📊 Session viewer · 🦀 Rust |
 | 50 | [**Omni**](https://github.com/fajarhide/omni) | 319 | Rust | Noise-canceling context & long-term memory for AI agents. | 🧹 Context distillation · 💾 Long-term memory · 💰 Token savings · 🦀 Rust |
 | 51 | [**Auggie CLI**](https://github.com/augmentcode/auggie) | 265 | Shell | Augment's agentic CLI with a full-screen TUI and whole-codebase context. | 🧠 Agentic · 🖥 Full-screen TUI · 📚 Codebase context · 🛠 MCP · 📝 Diffs |
 | 52 | [**Lanes**](https://github.com/lanes-sh/app) | 253 | — | Mission control for parallel AI coding agents. | 🎛 Parallel agents · 🖥 Orchestration · 🔌 Multi-provider · 📊 Dashboard |
 | 53 | [**LlamaTerm**](https://github.com/adammpkins/llama-terminal-completion) | 194 | Go | AI terminal assistant for any OpenAI-compatible API. | 🦙 Ollama/LM Studio support · 💬 Interactive chat TUI · ⚡ Streaming · 🔌 OpenAI-compatible |
-| 54 | [**amux**](https://github.com/andyrewlee/amux) | 143 | Go | TUI to run coding agents in parallel across tmux sessions and Git worktrees. | 🔀 Parallel · 🤖 Multi-agent · 🪟 tmux · 🌲 Git worktrees · ⚡ Go |
+| 54 | [**amux**](https://github.com/andyrewlee/amux) | 144 | Go | TUI to run coding agents in parallel across tmux sessions and Git worktrees. | 🔀 Parallel · 🤖 Multi-agent · 🪟 tmux · 🌲 Git worktrees · ⚡ Go |
 | 55 | [**Steer**](https://github.com/BrendanGraham14/steer) | 136 | Rust | TUI-first coding agent in Rust with vim editing and themes. | 🦀 Rust · 🖥 TUI · ✏ Vim editing · 🔌 Multi-provider · 🛠 MCP |
-| 56 | [**OpenKanban**](https://github.com/TechDufus/openkanban) | 129 | Go | TUI kanban board that orchestrates AI coding agents in per-ticket worktrees. | 🎛 Orchestration · 🌲 Git worktrees · 🤖 Multi-agent · 📋 Kanban · ⚡ Go |
+| 56 | [**OpenKanban**](https://github.com/TechDufus/openkanban) | 130 | Go | TUI kanban board that orchestrates AI coding agents in per-ticket worktrees. | 🎛 Orchestration · 🌲 Git worktrees · 🤖 Multi-agent · 📋 Kanban · ⚡ Go |
 
 ---
 
