@@ -1175,6 +1175,23 @@
     },
     {
       "description": {
+        "en": "Tmux TUI for managing coding agents with live status, worktrees, and diff review."
+      },
+      "features": {
+        "en": [
+          "🤖 Multi-agent",
+          "🪟 tmux",
+          "🌲 Git worktrees",
+          "📝 Diff review",
+          "⚡ Go"
+        ]
+      },
+      "language": "Go",
+      "name": "Agent Manager",
+      "repo": "YoanWai/agent-manager"
+    },
+    {
+      "description": {
         "en": "Browse and live-tail Claude Code sessions from a terminal UI viewer."
       },
       "features": {
